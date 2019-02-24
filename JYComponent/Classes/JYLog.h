@@ -14,6 +14,10 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (NSString *)logHelloWorld;
 
+- (NSString *)logHelloWorld2;
+
+//- (void)logHiWorld;
+
 @end
 
 NS_ASSUME_NONNULL_END

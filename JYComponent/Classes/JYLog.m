@@ -15,4 +15,13 @@
     return @"Hello World";
 }
 
+- (NSString *)logHelloWorld2 {
+    NSLog(@"Hello World!2");
+    return @"Hello World2";
+}
+
+//- (void)logHiWorld {
+//    NSLog(@"Hi World");
+//}
+
 @end

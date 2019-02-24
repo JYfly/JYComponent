@@ -1,5 +1,5 @@
 PODS:
-  - JYComponent (0.1.0)
+  - JYComponent (0.1.2)
 
 DEPENDENCIES:
   - JYComponent (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  JYComponent: 471f33bdcb7f16d0b8be9b1b5630f49c078be3cc
+  JYComponent: 9b4bed623c3b9f98fac786c7989994ce749be272
 
 PODFILE CHECKSUM: dad4d0a6414618c650516dfda052f8abc3a77eb1
 

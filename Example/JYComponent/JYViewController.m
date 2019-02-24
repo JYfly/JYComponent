@@ -21,7 +21,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     JYLog *log = [[JYLog alloc] init];
-    [log logHelloWorld];
+    [log logHelloWorld2];
 }
 
 - (void)didReceiveMemoryWarning
