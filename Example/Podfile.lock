@@ -1,0 +1,16 @@
+PODS:
+  - JYComponent (0.1.0)
+
+DEPENDENCIES:
+  - JYComponent (from `../`)
+
+EXTERNAL SOURCES:
+  JYComponent:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JYComponent: 471f33bdcb7f16d0b8be9b1b5630f49c078be3cc
+
+PODFILE CHECKSUM: dad4d0a6414618c650516dfda052f8abc3a77eb1
+
+COCOAPODS: 1.4.0

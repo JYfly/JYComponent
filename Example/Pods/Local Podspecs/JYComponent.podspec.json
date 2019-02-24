@@ -1,0 +1,22 @@
+{
+  "name": "JYComponent",
+  "version": "0.1.0",
+  "summary": "JYComponent.",
+  "description": "Study Only",
+  "homepage": "https://github.com/JYfly/JYComponent.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenshiyu_1995": "chenshiyu1995@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/JYfly/",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JYComponent/Classes/**/*"
+}

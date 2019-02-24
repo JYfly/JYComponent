@@ -7,6 +7,7 @@
 //
 
 #import "JYViewController.h"
+#import "JYLog.h"
 
 @interface JYViewController ()
 
@@ -18,6 +19,9 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    JYLog *log = [[JYLog alloc] init];
+    [log logHelloWorld];
 }
 
 - (void)didReceiveMemoryWarning

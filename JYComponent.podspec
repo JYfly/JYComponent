@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'JYComponent'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of JYComponent.'
+  s.summary          = 'JYComponent.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  Study Only
                        DESC
 
-  s.homepage         = 'https://github.com/chenshiyu_1995/JYComponent'
+  s.homepage         = 'https://github.com/JYfly/JYComponent.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'chenshiyu_1995' => 'chen_sy@Ctrip.com' }
-  s.source           = { :git => 'https://github.com/chenshiyu_1995/JYComponent.git', :tag => s.version.to_s }
+  s.author           = { 'chenshiyu_1995' => 'chenshiyu1995@gmail.com' }
+  s.source           = { :git => 'https://github.com/JYfly/', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
