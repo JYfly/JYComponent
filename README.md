@@ -22,7 +22,7 @@ pod 'JYComponent'
 
 ## Author
 
-chenshiyu_1995, chen_sy@Ctrip.com
+chenshiyu, chenshiyu1995@gmail.com
 
 ## License
 
